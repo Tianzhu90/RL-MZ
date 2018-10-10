@@ -1,11 +1,3 @@
-/*==========================================================================*/
-/*  DriverModel.cpp                                  DLL Module for VISSIM  */
-/*                                                                          */
-/*  Interface module for external driver models.                            */
-/*  Example version with a very simple driver model.                        */
-/*                                                                          */
-/*  Version of 2012-08-28                                   Lukas Kautzsch  */
-/*==========================================================================*/
 #include<cmath>
 #include "DriverModel.h"
 #include <string>
